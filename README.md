@@ -8,6 +8,7 @@ Mau ikutan bantu kami menerjemahkan io.js? Tentu saja! Silakan datang ke [Issues
 - Dhi Aurrahman ([@diorahman](https://github.com/diorahman))
 - Tian Permana ([@tianp](https://github.com/tianp))
 - Steven Sinatra ([@diagramatics](http://github.com/diagramatics))
+- Herpiko Dwi Aguno ([@herpiko](https://github.com/herpiko))
 
 ## Lisensi
 [MIT](https://tldrlegal.com/license/mit-license)
