@@ -1,0 +1,38 @@
+##io.js Pekan 20 Februari 2015
+
+Rilis versi 1.3.0, MongoDB, roadmap, dan lainnya.
+
+Rilis 1.30
+
+Perubahannya termasuk :
+
+* **url**: url.resolve(‘/path/to/file’, ‘.’) sekarang menampilkan /path/to/ dengan garis miring, url.resolve(‘/’, ‘.’) menampilkan / #278(Amir Saboury)
+* **tls**: Paket cipher bawaan yang digunakan pada tls dan https sudah diganti dengan yang lain yang memenuhi kriteria Perfect Forward Secrecy pada semua peramban web modern. Tambahan, ciphers RC4 yaeg kurang aman telah dihapus. Jika anda membutuhkan RC4, silakan mendefinisikan paket chiper anda sendiri. #826 (Roman Reiss)
+
+##Acara komunitas
+
+* **Node Governance** - William Bert membuat nodegovernance.io untuk memperingatkan Scott Hammond, CEO Joyent, tentang kehendak komunitas agar model kepimpimpinan terbuka pada io.js dijadikan pedoman dalam komite teknis Node Foundation. Respon dari komunitas sangat fantastis!
+
+* **Peningkatan Performa pada node.js dan io.js** - Baru-baru ini raygun.io  melakukan uji coba performa pada node.js dan io.js, dan keduanya menunjukkan peningkatan performa! Baca artikelnya lebih lengkap.
+
+* **LTTng Basics** - LTTng Basics dengan io.js oleh pengguna jgalar di asciinema
+
+
+Tambahan Dukungan untuk io.js
+
+* TravisCI menambahkan io.js. Pada hari terakhir Weekly Update, Hio Asari men-tweet bahwa sekitar 10% dari keseluruhan proyek Node menggunakan io.js. 
+* @thlorenz memperbarui nad, Node Addon Developer, untuk mendukung io.js. 
+* Modul node resmi MongoDB mendukung io.js pada versi 2.0.16. 
+* Native Web sekarang memiliki kontainer Docker io.js. 
+* DNS Chain oleh okTurtles added support for io.js. 
+* TDPAHACLPlugin dan TDPAHAuthPlugin untuk actionHeronow mendukung io.js. 
+* node-sass menambahkan dukungan untuk io.js 1.2 pada node-sass versi 2.0.1. 
+* total.js menambahkan dukungan untuk io.js pada versi 1.7.1. 
+* Clever Cloud menambahkan dukungan untuk io.js.
+
+Pertemuan Kelompok Kerja io.js
+
+* io.js Tracing Working Group Meeting — 19 Februari 2015: YouTube — SoundCloud — Minutes
+* io.js Build Working Group Meeting — 19 Februari 2015: YouTube — SoundCloud — Minutes
+* io.js Technical Committee Meeting — 18 Februari 2015: YouTube — SoundCloud — Minutes
+* io.js Website Working Group Meeting — 16 Februari 2015: YouTube — SoundCloud — Minutes
