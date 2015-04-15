@@ -10,6 +10,11 @@ Mau ikutan bantu kami menerjemahkan io.js? Tentu saja! Silakan datang ke [Issues
 - Steven Sinatra ([@diagramatics](http://github.com/diagramatics))
 - Herpiko Dwi Aguno ([@herpiko](https://github.com/herpiko))
 
+## Kontributor
+
+- Hengki Sihombing ([@aredo](https://github.com/aredo))
+- Yovi Budirahardjo ([@yaditya](https://github.com/yaditya))
+
 ## Lisensi
 [MIT](https://tldrlegal.com/license/mit-license)
 
