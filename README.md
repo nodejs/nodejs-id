@@ -18,6 +18,6 @@ Mau ikutan bantu kami menerjemahkan io.js? Tentu saja! Silakan datang ke [Issues
 ## Lisensi
 [MIT](https://tldrlegal.com/license/mit-license)
 
-## Hubungi kami
-Silakan hubungi kami di:
-- https://twitter.com/iojs_id
+## Media Sosial
+- [Twitter @iojs_id](https://twitter.com/iojs_id)
+- [Medium @iojs_id](https://medium.com/@iojs_id)
