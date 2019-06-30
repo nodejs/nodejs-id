@@ -2,7 +2,7 @@
 Usaha untuk menerjemahkan [Node.js](https://nodejs.org/) ke dalam Bahasa Indonesia.
 
 ## Kontribusi
-Mau ikutan bantu kami menerjemahkan io.js? Tentu saja! Silakan datang ke [Issues](https://github.com/nodejs/nodejs-id/issues) di GitHub untuk melihat penerjemahan yang kami perlukan bantuan, atau jika anda punya permasalahan mengenai beberapa hasil penerjemahan kami atau ingin masuk ke tim terjemahan kami, langsung saja [buat issue baru](https://github.com/nodejs/nodejs-id/issues/new). Terima kasih sebelumnya! 
+Mau ikutan bantu kami menerjemahkan Node.js? Tentu saja! Silakan datang ke [Issues](https://github.com/nodejs/nodejs-id/issues) di GitHub untuk melihat penerjemahan yang kami perlukan bantuan, atau jika anda punya permasalahan mengenai beberapa hasil penerjemahan kami atau ingin masuk ke tim terjemahan kami, langsung saja [buat issue baru](https://github.com/nodejs/nodejs-id/issues/new). Terima kasih sebelumnya! 
 
 ## Anggota tim
 - Dhi Aurrahman ([@diorahman](https://github.com/diorahman))
